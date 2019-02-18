@@ -1,26 +1,69 @@
 body{
-  background-color: #919A90;
+       background-color: #EDE7D5;
 }
+
+
 
 h1.title1{
-  font-family: 'Ubuntu', sans-serif;
-  font-style: italic;
-  font-weight: bold;
-  font-size: 65px;
-  color: #EDE5D5;
-  height: 75%;
-  width: 75%;
-  background-color: #6D8587;
-  text-shadow:5px 2px 6px #000;
+             font-family: 'Ubuntu', sans-serif;
+             font-style: italic;
+             font-weight: bold;
+             font-size: 65px;
+             color: #EDE5D5;
+             text-shadow:5px 2px 6px #000;
+             background-color: #B1B199;
+             width:600px;
+             line-height:75px;
+             border-radius: 0 0 50px 0;
+ }
 
+
+
+ div.title1{
+             box-shadow: 10px 10px 5px #888888;
 }
-div.box{
-  height:auto;
-  width: auto;
-  background-color: #D2BBB2;
-}
+
+
+
+ nav{
+             display: block;
+             position: relative;
+             top:-95px;
+             left:600px;
+ }
+
+
+
+ ul {
+				     width: 800px;
+             text-align: center;
+             font-size: 25px;
+             font-family: 'Montserrat', sans-serif;
+    }
+
+
+
+li {
+		         display: inline;
+		}
+
+
+
+a {
+				     text-transform: uppercase;
+             padding: 20px;
+             color: black;}
+
+
+
+a:hover, a.on {
+				     color: #cc3333;
+             background-color: #EDE7D5;}
+
 
 
 font-family: 'Montserrat', sans-serif;
 font-family: 'Coiny', cursive;
 font-family: 'Ubuntu', sans-serif;
+
+#875053
