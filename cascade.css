@@ -1,5 +1,6 @@
 body{
        background-color: #EDE7D5;
+       font-family: 'Montserrat', sans-serif;
 }
 
 
@@ -61,9 +62,45 @@ a:hover, a.on {
              background-color: #EDE7D5;}
 
 
+div.feature{
+             display: block;
+             background-color: #9C6F72;
+             line-height: 30px;
+             margin-left:200px;
+             margin-right:200px;
+             margin-tope:50px;
+             margin-bottom:50px;
+             padding: 20px;
+             border-radius: 50px;
+}
+
+
+
+article{
+             display: block;
+             font-size:20px;
+}
+
+dt.feature{
+              font-weight: bold;
+              font-style: italic;
+              font-size: 20px;
+              text-decoration: underline;
+              line-height:50px;
+}
+
+
+p.feature{
+              font-family: 'Ubuntu', sans-serif;
+              font-style: italic;
+              font-weight: bold;
+              text-align: center;
+              font-size: 30px;
+}
+
+
+
 
 font-family: 'Montserrat', sans-serif;
 font-family: 'Coiny', cursive;
 font-family: 'Ubuntu', sans-serif;
-
-#875053
