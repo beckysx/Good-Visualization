@@ -1,1 +1,26 @@
+body{
+  background-color: #919A90;
+}
 
+h1.title1{
+  font-family: 'Ubuntu', sans-serif;
+  font-style: italic;
+  font-weight: bold;
+  font-size: 65px;
+  color: #EDE5D5;
+  height: 75%;
+  width: 75%;
+  background-color: #6D8587;
+  text-shadow:5px 2px 6px #000;
+
+}
+div.box{
+  height:auto;
+  width: auto;
+  background-color: #D2BBB2;
+}
+
+
+font-family: 'Montserrat', sans-serif;
+font-family: 'Coiny', cursive;
+font-family: 'Ubuntu', sans-serif;
