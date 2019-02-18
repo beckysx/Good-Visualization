@@ -1,6 +1,7 @@
 body{
        background-color: #EDE7D5;
        font-family: 'Montserrat', sans-serif;
+       width: 1400px;
 }
 
 
@@ -30,7 +31,7 @@ h1.title1{
              display: block;
              position: relative;
              top:-95px;
-             left:600px;
+             left:560px;
  }
 
 
@@ -97,6 +98,17 @@ p.feature{
               font-weight: bold;
               text-align: center;
               font-size: 30px;
+}
+
+
+
+img.goodfull{
+              width:1200px;
+              margin-left: 100px;
+              margin-top: -50px;
+              margin-bottom: 50px;
+
+
 }
 
 
