@@ -116,7 +116,7 @@ img.goodfull{
 }
 
 
-div.textleft{
+div.text{
              display: block;
              background-color: #99B2C1;
              line-height: 30px;
@@ -131,7 +131,7 @@ div.textleft{
              clear: left;
 }
 
-div.imgright{
+div.img{
              float: right;
              clear: right;
              display: block;
@@ -147,9 +147,10 @@ img.goodsource{
              top:20px;
 }
 
-div.textright{
+
+div.subtext{
              display: block;
-             background-color: #99B2C1;
+             background-color:#4CA2B6;
              line-height: 30px;
              margin-left:100px;
              margin-right:100px;
@@ -157,17 +158,20 @@ div.textright{
              padding: 20px;
              border-radius: 30px;
              color:#FFEED6;
-             max-width: 450px;
-             float: right;
-             clear: right;
-}
-
-div.imgleft{
+             max-width: 1200px;
              float: left;
              clear: left;
-             display: block;
-             margin-left:100px;
 }
+
+
+img.circle{
+             width:300px;
+             border-radius:20px;
+             margin-left: 435px;
+
+}
+
+
 
 
 
@@ -177,3 +181,6 @@ div.imgleft{
 font-family: 'Montserrat', sans-serif;
 font-family: 'Coiny', cursive;
 font-family: 'Ubuntu', sans-serif;
+
+
+#4CA2B6
