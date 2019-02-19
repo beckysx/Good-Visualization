@@ -179,19 +179,13 @@ img.timeline{
              margin-left: 80px;
 }
 
-
-
-img.milestone{
-             height: 400px;
+img.continental{
+             height:200px;
              border-radius:20px;
+             margin-left: 250px;
 }
 
 
-div.imgstone{
-             float: right;
-             clear: right;
-             display: block;
-}
 
 
 font-family: 'Montserrat', sans-serif;
