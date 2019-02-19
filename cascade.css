@@ -73,7 +73,7 @@ div.feature{
              line-height: 30px;
              margin-left:200px;
              margin-right:200px;
-             margin-tope:50px;
+             margin-top:50px;
              margin-bottom:50px;
              padding: 20px;
              border-radius: 50px;
@@ -111,8 +111,6 @@ img.goodfull{
               margin-left: 100px;
               margin-top: -50px;
               margin-bottom: 50px;
-
-
 }
 
 
@@ -185,8 +183,42 @@ img.continental{
              margin-left: 250px;
 }
 
+img.bad{
+              height: 400px;
+              margin-left: 500px;
+              margin-top: -50px;
+              margin-bottom: 50px;
+}
 
 
+div.bad{
+             display: block;
+             background-color: #99B2C1;
+             line-height: 30px;
+             margin-bottom:50px;
+             padding: 20px;
+             border-radius: 30px;
+             color:#FFEED6;
+             max-width: 300px;
+             float: left;
+             margin-left: 10px;
+}
+
+
+
+div.notes{
+             background-color: #B28F91;
+             line-height: 30px;
+             margin-left:200px;
+             margin-right:200px;
+             margin-top:50px;
+             margin-bottom:50px;
+             padding: 20px;
+             border-radius: 50px;
+             color:#FFEED6;
+             text-align: justify;
+             font-size: 20px;
+}
 
 font-family: 'Montserrat', sans-serif;
 font-family: 'Coiny', cursive;
