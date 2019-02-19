@@ -173,9 +173,25 @@ img.circle{
 
 
 
+img.timeline{
+             width:1000px;
+             border-radius:20px;
+             margin-left: 80px;
+}
 
 
 
+img.milestone{
+             height: 400px;
+             border-radius:20px;
+}
+
+
+div.imgstone{
+             float: right;
+             clear: right;
+             display: block;
+}
 
 
 font-family: 'Montserrat', sans-serif;
