@@ -19,6 +19,10 @@ h1.title1{
              border-radius: 0 0 50px 0;
  }
 
+ div{
+   display: block;
+ }
+
 
 
  div.title1{
@@ -110,6 +114,62 @@ img.goodfull{
 
 
 }
+
+
+div.textleft{
+             display: block;
+             background-color: #99B2C1;
+             line-height: 30px;
+             margin-left:100px;
+             margin-right:100px;
+             margin-bottom:50px;
+             padding: 20px;
+             border-radius: 30px;
+             color:#FFEED6;
+             max-width: 450px;
+             float: left;
+             clear: left;
+}
+
+div.imgright{
+             float: right;
+             clear: right;
+             display: block;
+             margin-right:100px;
+             margin-bottom:90px;
+}
+
+
+img.goodsource{
+             width:600px;
+             border-radius:50px;
+             position: relative;
+             top:20px;
+}
+
+div.textright{
+             display: block;
+             background-color: #99B2C1;
+             line-height: 30px;
+             margin-left:100px;
+             margin-right:100px;
+             margin-bottom:50px;
+             padding: 20px;
+             border-radius: 30px;
+             color:#FFEED6;
+             max-width: 450px;
+             float: right;
+             clear: right;
+}
+
+div.imgleft{
+             float: left;
+             clear: left;
+             display: block;
+             margin-left:100px;
+}
+
+
 
 
 
